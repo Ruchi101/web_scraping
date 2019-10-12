@@ -1,2 +1,2 @@
 # web_scraping
-This is the Scraping for beautiful soup
+This is the Scraping using beautiful soup
